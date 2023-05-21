@@ -1,0 +1,6 @@
+Paquetes que se utilizaron:
+
+- Laravel UI Stisla (Deprecated)
+- Laravel Permissions (Spatie)
+- Laravel Collective 
+
